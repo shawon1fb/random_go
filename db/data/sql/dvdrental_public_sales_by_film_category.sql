@@ -1,0 +1,16 @@
+INSERT INTO public.sales_by_film_category (category, total_sales) VALUES ('Sports', 4892.19);
+INSERT INTO public.sales_by_film_category (category, total_sales) VALUES ('Sci-Fi', 4336.01);
+INSERT INTO public.sales_by_film_category (category, total_sales) VALUES ('Animation', 4245.31);
+INSERT INTO public.sales_by_film_category (category, total_sales) VALUES ('Drama', 4118.46);
+INSERT INTO public.sales_by_film_category (category, total_sales) VALUES ('Comedy', 4002.48);
+INSERT INTO public.sales_by_film_category (category, total_sales) VALUES ('New', 3966.38);
+INSERT INTO public.sales_by_film_category (category, total_sales) VALUES ('Action', 3951.84);
+INSERT INTO public.sales_by_film_category (category, total_sales) VALUES ('Foreign', 3934.47);
+INSERT INTO public.sales_by_film_category (category, total_sales) VALUES ('Games', 3922.18);
+INSERT INTO public.sales_by_film_category (category, total_sales) VALUES ('Family', 3830.15);
+INSERT INTO public.sales_by_film_category (category, total_sales) VALUES ('Documentary', 3749.65);
+INSERT INTO public.sales_by_film_category (category, total_sales) VALUES ('Horror', 3401.27);
+INSERT INTO public.sales_by_film_category (category, total_sales) VALUES ('Classics', 3353.38);
+INSERT INTO public.sales_by_film_category (category, total_sales) VALUES ('Children', 3309.39);
+INSERT INTO public.sales_by_film_category (category, total_sales) VALUES ('Travel', 3227.36);
+INSERT INTO public.sales_by_film_category (category, total_sales) VALUES ('Music', 3071.52);
