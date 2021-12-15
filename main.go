@@ -1,7 +1,15 @@
 package main
 
-import "github.com/shawon1fb/random_go.git/csv_file"
+import (
+	"fmt"
+	"github.com/shawon1fb/random_go.git/os_platform"
+	"runtime"
+)
 
 func main() {
-	csv_file.CsvFileMain()
+
+	fmt.Println("Go runs on ")
+	fmt.Println(runtime.GOOS)
+	os_platform.OsPlatform()
+	//csv_file.CsvFileMain()
 }
